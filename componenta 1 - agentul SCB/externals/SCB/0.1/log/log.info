@@ -1,0 +1,532 @@
+(MyLogger)[0000000000]:SLOPE MAPS 1024
+(MyLogger)[0000000000]:1024
+(MyLogger)[0000000000]:1024
+(MyLogger)[0000000000]:1024
+(MyLogger)[0000000000]:SLOPE MAPS 512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:SLOPE MAPS 256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:SLOPE MAPS 128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:SLOPE MAPS 64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:SLOPE MAPS 512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:SLOPE MAPS 256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:SLOPE MAPS 128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:SLOPE MAPS 64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:RESOURCE MAPS 512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:512
+(MyLogger)[0000000000]:RESOURCE MAPS 256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:256
+(MyLogger)[0000000000]:RESOURCE MAPS 128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:RESOURCE MAPS 64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:64
+(MyLogger)[0000000000]:Exploration map size (width, height) : 
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:128
+(MyLogger)[0000000000]:7004
+(MyLogger)[0000000000]:9380
+(MyLogger)[0000000000]:units_controller_tick_rate:29
+(MyLogger)[0000000000]:ai_tick_rate:29
+(MyLogger)[0000000000]:starting_builders_count:19
+(MyLogger)[0000000000]:starting_factory_index:3
+(MyLogger)[0000000000]:builders_train_count:12
+(MyLogger)[0000000000]:max_factory_builders:1
+(MyLogger)[0000000000]:max_working_units:18
+(MyLogger)[0000000000]:attack_army_count:4
+(MyLogger)[0000000000]:attack_army_min_count:1
+(MyLogger)[0000000000]:attack_army_train_count:15
+(MyLogger)[0000000000]:scouting_attack_army_count:13
+(MyLogger)[0000000000]:scouting_attack_army_min_count:8
+(MyLogger)[0000000000]:scouting_attack_army_train_count:7
+(MyLogger)[0000000000]:unit_attack_army_count:30
+(MyLogger)[0000000000]:unit_attack_army_min_count:16
+(MyLogger)[0000000000]:unit_attack_army_train_count:7
+(MyLogger)[0000000000]:scout_train_count:8
+(MyLogger)[0000000000]:max_tower_builders:19
+(MyLogger)[0000000007]:7
+(MyLogger)[0000000007]:armavp
+(MyLogger)[0000000007]:armap
+(MyLogger)[0000000007]:armhp
+(MyLogger)[0000000007]:armalab
+(MyLogger)[0000000007]:armvp
+(MyLogger)[0000000007]:armaap
+(MyLogger)[0000000007]:armlab
+(MyLogger)[0000000007]:3
+(MyLogger)[0000000016]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000017]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000017]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000017]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000018]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000019]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000021]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000021]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000023]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000023]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000025]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000028]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000033]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000037]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000040]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000046]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000073]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000074]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000075]:java.lang.NullPointerException
+	at logger.LogConverter.getAsString(LogConverter.java:36)
+	at logger.AILogger.log(AILogger.java:36)
+	at map.GeneralMap.getClosestBuildPosForFrom(GeneralMap.java:714)
+	at units.controller.tasks.BuildSingle.execute(BuildSingle.java:80)
+	at units.controller.UnitsController.update(UnitsController.java:72)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:200)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000101]:class com.springrts.ai.oo.clb.WrappUnitDefunitDefId=29, )
+(MyLogger)[0000000118]:class com.springrts.ai.oo.clb.WrappUnitDefunitDefId=101, )
+(MyLogger)[0000000141]:class com.springrts.ai.oo.clb.WrappUnitDefunitDefId=190, )
+(MyLogger)[0000000158]:class com.springrts.ai.oo.clb.WrappUnitDefunitDefId=20, )
+(MyLogger)[0000000178]:class com.springrts.ai.oo.clb.WrappUnitDefunitDefId=94, )
+(MyLogger)[0000000233]:class com.springrts.ai.oo.clb.WrappUnitDefunitDefId=94, )
+(MyLogger)[0000000261]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000282]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000296]:class com.springrts.ai.oo.clb.WrappUnitDefunitDefId=29, )
+(MyLogger)[0000000316]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000338]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000338]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000357]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000357]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000358]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000358]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000358]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000358]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000369]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000370]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000370]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000370]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000371]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000371]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000371]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000372]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000377]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000377]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000385]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000385]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000386]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000386]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000386]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000387]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000387]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000393]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000393]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000394]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000394]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000394]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000396]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000397]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000397]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000406]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000412]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000421]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000422]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000422]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000422]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000423]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000423]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
+(MyLogger)[0000000423]:java.lang.NullPointerException
+	at behaviour.OffenceBehaviour.sendAttackCommand(OffenceBehaviour.java:212)
+	at behaviour.OffenceBehaviour.update(OffenceBehaviour.java:127)
+	at behaviour.GeneralBehaviour.update(GeneralBehaviour.java:209)
+	at main.ScbAI.update(ScbAI.java:202)
+
