@@ -1,3 +1,0 @@
-Directorul externals conține o instanță a agentului SCB (arhiva JAR rezultată în urma compilării codului sursă), cu tot cu fișierele esențiale ce trebuie adăugate împreună cu agentul SCB, și programul de tip widget pentru preluarea rezultatelor (scris in Lua).
-
-Fișierul script.txt reprezintă un exemplu de fișier pentru rulare a unui meci între agentul SCB și agentul KAIK (trebuie adăugat în directorul run_scripts al programului SpringRTS, pentru utilizare).
